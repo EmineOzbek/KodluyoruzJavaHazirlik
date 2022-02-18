@@ -1,20 +1,18 @@
 import java.util.Scanner;
 
-public class Alýstýrma_7 {
+public class Alistirma_6 {
 
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
 		System.out.print("Bir sayý girin: ");
 		int x = input.nextInt();
-		int result = 0;
-
-		while (x > 0) {
-			result += x % 10;
-			x /= 10;
+		for (int i = 1; i <= 10; i++) {
+			int result = x * i;
+			System.out.println(x + " * " + i + " = " + result);
 		}
-		System.out.println("Basamak toplamý: " + result);
 		input.close();
+
 	}
 
 }

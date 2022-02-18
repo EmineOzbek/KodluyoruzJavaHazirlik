@@ -1,18 +1,18 @@
 import java.util.Scanner;
 
-public class Alýstýrma_6 {
+public class Alistirma_5 {
 
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
 		System.out.print("Bir sayý girin: ");
-		int x = input.nextInt();
-		for (int i = 1; i <= 10; i++) {
-			int result = x * i;
-			System.out.println(x + " * " + i + " = " + result);
+		int N = input.nextInt();
+		int result = 0;
+		for (int i = 1; i < N; i++) {
+			result += i;
 		}
+		System.out.println("Toplam = " + result);
 		input.close();
-
 	}
 
 }

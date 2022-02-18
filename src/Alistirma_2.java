@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Alýstýrma_2 {
+public class Alistirma_2 {
 
 	public static void main(String[] args) {
 
