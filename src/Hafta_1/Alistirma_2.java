@@ -1,3 +1,4 @@
+package Hafta_1;
 import java.util.Scanner;
 
 public class Alistirma_2 {
