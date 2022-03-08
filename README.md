@@ -15,3 +15,11 @@
 [Alıştırma 5](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_2/Alistirma_5.java) : Kullanıcıdan 10 adet sayı alarak bu sayıların toplamını ekranda gösteren program <br/>
 [Alıştırma 6](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_2/Alistirma_6.java) : Bilgisayarın rastgele tuttuğu 10 sayıdan çift ve tek olanların sayısını gösteren program <br/>
 [Alıştırma 7](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_2/Alistirma_7.java) : Kullanıcının girdiği metni kullanıcının girdiği sayıda ekranda yazdıran program <br/>
+## 3.Hafta Alıştırmaları
+[Alıştırma 1](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_1.java) : While döngüsü ile faktöriyel hesaplama <br/>
+[Alıştırma 2](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_2.java) : Girilen sayının çarpım tablosunu yazırma <br/>
+[Alıştırma 3](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_3.java) : Girilen sayının fibonacci serisini yazdırma <br/>
+[Alıştırma 4](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_4.java) : Verilen bir String'te harfler dışındaki rakam ve karakterleri bulma <br/>
+[Alıştırma 5](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_5.java) : İki dizideki elemanları karşılaştırarak aynı elemanları bulma <br/>
+[Alıştırma 6](https://github.com/EmineOzbek/KodluyoruzJavaHazirlik/blob/master/src/Hafta_3/Alistirma_6.java) : Girilen sayının binary olup olmadığını kontrol etme <br/>
+
